@@ -24,8 +24,9 @@ Real-time health monitoring system using AI to detect anomalies and provide pers
 
 3. **Access dashboard:**
    Open http://localhost:5000 in your browser
+   View the live demo: https://plp-ai-final-project.onrender.com/
 
-4. **Run tests:**
+5. **Run tests:**
    ```bash
    python test_system.py
    ```
